@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  I’m the founder of <a href="https://www.kolonx.com">KolonX</a>, an engineering partner for teams that need software done properly.<br>
-  I work across the Apple ecosystem and the systems underneath it: native iOS and macOS apps, SaaS platforms,<br>
-  and the architecture that keeps them fast, secure and maintainable as the business grows.
+  I’m the founder of <a href="https://www.kolonx.com">KolonX</a>, an engineering partner for teams that need software done properly. I work across the Apple ecosystem and the systems underneath it: native iOS and macOS apps, SaaS platforms and the architecture that keeps them fast, secure and maintainable as the business grows.
 </p>
 
 <p align="center">
